@@ -8,33 +8,33 @@
 
 ### ノイズ
 
-![結果](Result1.gif)
+![結果](1NoiseScene.gif)
 
 ### FBM
 
-![結果](Result2.gif)
+![結果](2FBMScene.gif)
 
 ### パターン
 
-![結果](Result3.png)
+![結果](3PatternScene.png)
 
 ### ボロノイ図
 
-![結果](Result4.gif)
+![結果](4VoronoiScene.gif)
 
 ### 炎
 
-![結果](Result5.gif)
+![結果](5FireScene.gif)
 
 ### ディゾルブ
 
-![結果](Result6.gif)
+![結果](6DissolveScene.gif)
 
 ### あなたの考えた素敵なシェーダー
 
-![結果](Result7.gif)
+![結果](7MyBestScene.gif)
 
--- 工夫した点：xxx
+-- 工夫した点：本が燃え尽きた風にしたかった
 
 ## 進め方
 
